@@ -1,0 +1,6 @@
+.desktop-menu {
+    flex-direction: row-reverse;
+  }
+  .menubar ul {
+    text-align: right;
+  }
