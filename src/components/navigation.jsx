@@ -17,8 +17,14 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
+          {/* Navigation Brand with Icon */}
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            <img
+              src="img/Latados.jpg" // Path to your icon file
+              alt="Latados Logo"
+              className="nav-logo"
+            />
+            Latados
           </a>{" "}
         </div>
 

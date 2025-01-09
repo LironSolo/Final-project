@@ -15,4 +15,42 @@
   #portfolio {
     width: 110%;
   }
+
+  
 }
+
+.latados-title {
+  color: #ee49ca !important; /* Pink color for the rest of the word */
+  font-weight: bold;
+  font-family: 'Cursive', sans-serif; /* Adjust font as needed */
+}
+
+.latados-black {
+  color: #000 !important; /* Black color for "LA" */
+}
+
+.nav-logo {
+  height: 75px; /* Adjust the height to match the navigation bar */
+  width: 100px;
+  margin-right: 5px; /* Add space between the logo and the text */
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.navbar-brand {
+  display: flex; /* Align the logo and text horizontally */
+  align-items: center; /* Vertically align items */
+}
+
+.navbar-brand img {
+  cursor: pointer; /* Make the logo clickable */
+}
+
+
+
+
+
+
+
+
+
