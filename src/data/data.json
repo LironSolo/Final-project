@@ -20,49 +20,54 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "ג'ייב",
+      "largeImage": "img/portfolio/ריקוד ג'ייב.jpg",
+      "smallImage": "img/portfolio/ריקוד ג'ייב.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "סמבה",
+      "largeImage": "img/portfolio/ריקוד סמבה.jpg",
+      "smallImage": "img/portfolio/ריקוד סמבה.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "פסודובלה",
+      "largeImage": "img/portfolio/ריקוד פסודובלה.jpg",
+      "smallImage": "img/portfolio/ריקוד פסודובלה.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "צ'הצ'ה",
+      "largeImage": "img/portfolio/ריקוד צ'הצ'ה.jpg",
+      "smallImage": "img/portfolio/ריקוד צ'הצ'ה.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "רומבה",
+      "largeImage": "img/portfolio/ריקוד רומבה.jpg",
+      "smallImage": "img/portfolio/ריקוד רומבה.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "ולס אנגלי",
+      "largeImage": "img/portfolio/ולס אנגלי.jpg",
+      "smallImage": "img/portfolio/ולס אנגלי.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "ולס וינאי",
+      "largeImage": "img/portfolio/ריקוד ולס וינאי.jpg",
+      "smallImage": "img/portfolio/ריקוד ולס וינאי.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "טנגו",
+      "largeImage": "img/portfolio/ריקוד טנגו.jpg",
+      "smallImage": "img/portfolio/ריקוד טנגו.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "קוויקסטפ",
+      "largeImage": "img/portfolio/ריקוד קוויקסטפ.jpg",
+      "smallImage": "img/portfolio/ריקוד קוויקסטפ.jpg"
+    },
+    {
+      "title": "פוקסטרוט",
+      "largeImage": "img/portfolio/ריקוד פוקסטרוט.jpg",
+      "smallImage": "img/portfolio/ריקוד פוקסטרוט.jpg"
     }
   ],
   "Services": [
@@ -152,12 +157,11 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "בית אל 2, באר שבע ",
+    "phone": "050-8662436",
+    "email": "shai2996@gmail.com ",
+    "facebook": "https://www.facebook.com/p/Latados-Dance-Academy-100028971056482/",
+    "youtube": "https://www.youtube.com/@%D7%A9%D7%99%D7%92%D7%A8%D7%99%D7%A0%D7%91%D7%A8%D7%92-%D7%9E3%D7%A2"
   },
   "Features": [
     {
