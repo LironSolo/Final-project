@@ -161,24 +161,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Children's/Adult's group",
+      "text": "Fun classes teaching kids and adults coordination and teamwork through dance."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-heart",
+      "title": "Groom-bride dances",
+      "text": "A romantic, choreographed dance for couples to shine on their special day."
+    },
+    {
+      "icon": "fa fa-birthday-cake",
+      "title": "Bar/Bat mitzva dances",
+      "text": "Lively routines like cha-cha add fun and energy to the celebration."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Private Lessons",
+      "text": "Personalized coaching to master ballroom techniques and build confidence."
     }
   ]
 }
